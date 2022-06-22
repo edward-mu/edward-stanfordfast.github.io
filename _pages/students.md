@@ -3,4 +3,4 @@ layout: single
 permalink: /students/
 ---
 
-Will include surveys and resources from workshops
+Will include surveys and resources from workshops!
