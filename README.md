@@ -26,6 +26,10 @@ From Edward (2022-06-22, I have a 2020 M1 MacBook Pro). Things I had to do becau
 
 	a. `cd 'OneDrive - Stanford'/'FAST'/'FAST Website'/'stanfordfast.github.io'`
 
+4. Ran `bundle`
+
+5. Ran `bundle exec jekyll serve` 
+
 
 To get started after cloning the repo:
 1. Run `bundle install` to fetch all the necessary gems.
